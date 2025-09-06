@@ -1,5 +1,5 @@
 # CHART-21
-'''mermaid
+```mermaid
 graph TD
     subgraph UDEs [اثرات نامطلوب]
         A["هزینه بسته‌بندی به ازای هر سفارش (CPO) بالاست"]
